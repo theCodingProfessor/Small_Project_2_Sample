@@ -1,0 +1,3 @@
+/home/ncc306/Documents/projects/labs/sm_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ncc306/Documents/projects/labs/sm_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ncc306/Documents/projects/labs/sm_2/cmake-build-debug/CMakeFiles/Person.h.dir

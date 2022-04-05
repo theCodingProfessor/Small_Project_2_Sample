@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Person.h.dir/Person.cpp.o CMakeFiles/Person.h.dir/project_2.cpp.o CMakeFiles/Person.h.dir/Friend.cpp.o -o Person.h 
